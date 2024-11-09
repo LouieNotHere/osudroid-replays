@@ -8,3 +8,6 @@ Replays start from being exported from osu!droid 1.7.2, and onwards
 
 # Why archive?
 In case if I get a new phone or lost it.
+
+# Full acrhive?
+[get it here](https://github.com/LouieNotHere/osudroid-replays/archive/refs/heads/main.zip)
